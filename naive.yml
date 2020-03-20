@@ -1,0 +1,10 @@
+name: naive
+dependencies:
+  - pip
+  - python=3.6
+  - pip:
+    - numpy
+    - opencv-python
+
+
+
